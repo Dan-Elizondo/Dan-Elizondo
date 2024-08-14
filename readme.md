@@ -82,7 +82,9 @@ ai-project/
 ```source venv/bin/activate```
 
 ## On Windows, 
-use: ```venv\Scripts\activate.bat```
+use: ```
+venv\Scripts\activate.bat
+```
 
 2. Install dev dependencies:
 ```pip install -r requirements-dev.txt```
