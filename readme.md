@@ -98,7 +98,9 @@ pip install -r requirements-dev.txt
 ## 🧪 Running Tests
 
 Run tests using pytest:
-```pytest tests/```
+```
+pytest tests/
+```
 
 ## 📝 Coding Standards
 
