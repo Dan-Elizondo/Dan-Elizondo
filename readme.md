@@ -37,31 +37,36 @@ tech_stack = [
 ]
 ```
 
-🌟 Join Our Team
+# 🌟 Join Our Team
+
 Are you passionate about AI? Do you thrive in collaborative environments? We're always looking for bright minds to join our mission!
-Check out our openings
-📬 Get in Touch
 
-Website: www.sabeycorp.com
-Email: ai@sabeycorp.com
-Twitter: @SabeyCorp
-LinkedIn: Sabey Corporation
+[Check out our openings](#)
 
+## 📬 Get in Touch
 
-🧑‍💻 Contributor's Guide
+- Website: [www.sabeycorp.com](http://www.sabeycorp.com)
+- Email: ai@sabeycorp.com
+- Twitter: [@SabeyCorp](https://twitter.com/SabeyCorp)
+- LinkedIn: [Sabey Corporation](https://www.linkedin.com/company/sabey-corporation)
+
+# 🧑‍💻 Contributor's Guide
+
 Welcome to the Sabey Corporation AI project! We're excited to have you on board. This guide will help you get started as a contributor.
-🚀 Quick Start
 
-Clone the repository:
-Copygit clone https://github.com/sabey-corp/ai-project.git
+## 🚀 Quick Start
 
-Install dependencies:
-Copypip install -r requirements.txt
+1. Clone the repository:
+git clone https://github.com/sabey-corp/ai-project.git
 
-Set up your development environment (see Environment Setup below)
+2. Install dependencies:
+pip install -r requirements.txt
 
-🌳 Project Structure
-Copyai-project/
+3. Set up your development environment (see Environment Setup below)
+
+## 🌳 Project Structure
+
+ai-project/
 ├── src/
 │   ├── models/
 │   ├── data/
@@ -69,50 +74,56 @@ Copyai-project/
 ├── tests/
 ├── docs/
 └── notebooks/
-🛠️ Environment Setup
 
-Create a virtual environment:
-Copypython -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+## 🛠️ Environment Setup
 
-Install dev dependencies:
-Copypip install -r requirements-dev.txt
+1. Create a virtual environment:
+python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
 
+2. Install dev dependencies:
+pip install -r requirements-dev.txt
 
-🧪 Running Tests
+## 🧪 Running Tests
+
 Run tests using pytest:
-Copypytest tests/
-📝 Coding Standards
+pytest tests/
 
-Follow PEP 8 guidelines
-Use type hints
-Write docstrings for all functions and classes
+## 📝 Coding Standards
 
-🔄 Workflow
+- Follow PEP 8 guidelines
+- Use type hints
+- Write docstrings for all functions and classes
 
-Create a new branch for your feature/bugfix
-Make your changes
-Run tests and ensure they pass
-Submit a pull request
+## 🔄 Workflow
 
-📚 Documentation
+1. Create a new branch for your feature/bugfix
+2. Make your changes
+3. Run tests and ensure they pass
+4. Submit a pull request
 
-Update relevant documentation as you make changes
-Add comments to your code where necessary
+## 📚 Documentation
 
-🤝 Code Review Process
+- Update relevant documentation as you make changes
+- Add comments to your code where necessary
+
+## 🤝 Code Review Process
+
 All submissions require review. We use GitHub pull requests for this purpose.
-🐛 Reporting Issues
+
+## 🐛 Reporting Issues
+
 Use the GitHub issue tracker to report bugs or suggest features.
-📅 Team Meetings
 
-Weekly standup: Mondays at 10:00 AM EST
-Sprint planning: First Tuesday of each month at 2:00 PM EST
+## 📅 Team Meetings
 
-🆘 Getting Help
+- Weekly standup: Mondays at 10:00 AM EST
+- Sprint planning: First Tuesday of each month at 2:00 PM EST
 
-Slack channel: #ai-project-help
-Email: ai-support@sabeycorp.com
+## 🆘 Getting Help
+
+- Slack channel: #ai-project-help
+- Email: ai-support@sabeycorp.com
 
 Thank you for contributing to the future of AI with Sabey Corporation!
 
