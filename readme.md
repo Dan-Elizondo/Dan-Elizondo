@@ -65,7 +65,7 @@ pip install -r requirements.txt
 3. Set up your development environment (see Environment Setup below)
 
 ## 🌳 Project Structure
-"""
+```
 ai-project/
 ├── src/
 │   ├── models/
@@ -74,7 +74,7 @@ ai-project/
 ├── tests/
 ├── docs/
 └── notebooks/
-"""
+```
 ## 🛠️ Environment Setup
 
 1. Create a virtual environment:
