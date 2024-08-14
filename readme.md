@@ -78,16 +78,16 @@ ai-project/
 ## 🛠️ Environment Setup
 
 1. Create a virtual environment:
-python -m venv venv
-source venv/bin/activate  # On Windows, use venv\Scripts\activate
+```python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate```
 
 2. Install dev dependencies:
-pip install -r requirements-dev.txt
+```pip install -r requirements-dev.txt```
 
 ## 🧪 Running Tests
 
 Run tests using pytest:
-pytest tests/
+```pytest tests/```
 
 ## 📝 Coding Standards
 
