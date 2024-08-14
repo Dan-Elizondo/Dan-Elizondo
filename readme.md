@@ -78,8 +78,8 @@ ai-project/
 ## 🛠️ Environment Setup
 
 1. Create a virtual environment:
-```python -m venv venv
-source venv/bin/activate```
+```python -m venv venv```
+```source venv/bin/activate```
 
 ## On Windows, 
 use: ```venv\Scripts\activate.bat```
