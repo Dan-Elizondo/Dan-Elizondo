@@ -82,7 +82,8 @@ ai-project/
 ```source venv/bin/activate```
 
 ## On Windows, 
-use: ```
+use: 
+```
 venv\Scripts\activate.bat
 ```
 
