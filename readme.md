@@ -60,7 +60,7 @@ Welcome to the Sabey Corporation AI project! We're excited to have you on board.
 git clone https://github.com/sabey-corp/ai-project.git
 
 2. Install dependencies:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3. Set up your development environment (see Environment Setup below)
 
